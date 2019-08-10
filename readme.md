@@ -27,30 +27,21 @@ Team Members:
 * pandas
 
 1. Download [Web Application Source Codes](https://github.com/IdleDust/patent-recommend)
-2. Dependencies 
-* Python 3.7
-* flask
-* sqlite
-* pandas
-
-3. Run commands as following steps:
-
- 
- Install packages by
+2. Install packages by
 
 `pip install -r requirements.txt`
 
-Download the common stopwords by
+3. Download the common stopwords by
 `python recommender/download.py`
 then select to download the `popular` section.
 
-Set the env variable
+4. Set the env variable
 `sudo ./setenv.sh`
 
-Initialize the sqlite db by
+5. Initialize the sqlite db by
 `python manage.py initdb`
 
-Start the app by
+6. Start the app by
 `python manage.py runserver`
 
 
