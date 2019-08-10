@@ -29,7 +29,7 @@ Team Members:
 * sqlite
 * pandas
 
-1. Download [Web Application Source Codes](https://github.com/256xu/CMPE256Team7/tree/master/app_patent_recommend_master)
+1. Download [whole package and enter in folder ”app_patent_recommend_master“](https://github.com/256xu/CMPE256Team7)
 2. Install packages by
 
 `pip install -r requirements.txt`
