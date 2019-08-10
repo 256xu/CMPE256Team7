@@ -31,5 +31,20 @@ Initialize the sqlite db by
 Start the app by
 `python manage.py runserver`
 
+
+**If you have two versions of python locally(eg. python2.7 and python3.7), please modify the commands above from `python` and `pip` to `python3` and `pip3` .**
+
+7. After running commands above, wait for a few minutes, when you see: 
+
+  `* Debugger is active!`
+  
+  `* Debugger PIN: 406-***-***`
+  
+    which means app activates sucessfully, then you can try our app at http://127.0.0.1:5000/ 
+
+
+
+
 # LINKs
 YouTube: https://youtu.be/c1Gmq4IN48c
+Repository Homepage: https://github.com/256xu/CMPE256Team7
