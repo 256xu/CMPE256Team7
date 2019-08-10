@@ -22,7 +22,7 @@ Team Members:
 * [Middle & Final Slides](https://github.com/256xu/CMPE256Team7/tree/master/project_slides)
 
 
-# Instruction of running app locally
+# Running App Locally
 ## Dependencies
 * Python 3.7
 * flask
