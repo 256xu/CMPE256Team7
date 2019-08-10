@@ -15,7 +15,7 @@ Team Members:
 
 * [Final Report](https://github.com/256xu/CMPE256Team7/blob/master/CMPE%20256%20Project%20Report.pdf)
 * [Demo and Presentation Video](https://youtu.be/c1Gmq4IN48c)
-* [Web Application Source Codes](https://github.com/IdleDust/patent-recommend)
+* [Web Application Source Codes](https://github.com/256xu/CMPE256Team7/tree/master/app_patent_recommend_master)
 
 
 * [Jupyter Notebook Codes and Data](https://github.com/256xu/CMPE256Team7/tree/master/jupyter_codes_and_data)
