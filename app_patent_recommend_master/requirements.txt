@@ -35,3 +35,5 @@ pandas
 numpy
 nltk
 scipy
+sklearn
+flask-script
