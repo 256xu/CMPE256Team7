@@ -32,16 +32,21 @@ Team Members:
 `pip install -r requirements.txt`
 
 3. Download the common stopwords by
+
 `python recommender/download.py`
+
 then select to download the `popular` section.
 
 4. Set the env variable
+
 `sudo ./setenv.sh`
 
 5. Initialize the sqlite db by
+
 `python manage.py initdb`
 
 6. Start the app by
+
 `python manage.py runserver`
 
 
