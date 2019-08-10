@@ -14,22 +14,29 @@ Recommendation system powered by recommendation models.
 * pandas
 
 
-Install packages by
+1. Download [Web Application Source Codes](https://github.com/256xu/CMPE256Team7/tree/master/app_patent_recommend_master)
+2. Install packages by
 
 `pip install -r requirements.txt`
 
-Download the common stopwords by
+3. Download the common stopwords by
+
 `python recommender/download.py`
+
 then select to download the `popular` section.
 
-Set the env variable
+4. Set the env variable
+
 `sudo ./setenv.sh`
 
-Initialize the sqlite db by
+5. Initialize the sqlite db by
+
 `python manage.py initdb`
 
-Start the app by
+6. Start the app by
+
 `python manage.py runserver`
+
 
 
 **If you have two versions of python locally(eg. python2.7 and python3.7), please modify the commands above from `python` and `pip` to `python3` and `pip3` .**
@@ -47,4 +54,5 @@ Start the app by
 
 # LINKs
 YouTube: https://youtu.be/c1Gmq4IN48c
+
 Repository Homepage: https://github.com/256xu/CMPE256Team7
