@@ -1,0 +1,57 @@
+# CMPE 256 2019 Summer
+
+#TEAM 7 - Patent Recommendation System
+
+Team Members:
+* Aaron Lee (ID: 009085596)
+* Hongfei Xu (ID:011833978)
+* Juan Chen (ID: 012483250)
+* Xiaoting Jin (ID: 013842192)
+
+## Contents
+
+* [Final Report](https://github.com/256xu/CMPE256Team7/blob/master/CMPE%20256%20Project%20Report.pdf)
+* [Demo and Presentation Video](https://youtu.be/c1Gmq4IN48c)
+* [Web Application Source Codes](https://github.com/IdleDust/patent-recommend)
+
+
+* [Jupyter Notebook Codes and Data](https://github.com/256xu/CMPE256Team7/tree/master/jupyter_codes_and_data)
+* [Middle & Final Slides](https://github.com/256xu/CMPE256Team7/tree/master/project_slides)
+
+
+## Instruction of running app locally
+# Dependencies
+* Python 3.7
+* flask
+* sqlite
+* pandas
+
+1. Download [Web Application Source Codes](https://github.com/IdleDust/patent-recommend)
+2. Dependencies 
+* Python 3.7
+* flask
+* sqlite
+* pandas
+
+3. Run commands as following steps:
+
+ 
+ Install packages by
+
+`pip install -r requirements.txt`
+
+Download the common stopwords by
+`python recommender/download.py`
+then select to download the `popular` section.
+
+Set the env variable
+`sudo ./setenv.sh`
+
+Initialize the sqlite db by
+`python manage.py initdb`
+
+Start the app by
+`python manage.py runserver`
+
+
+
