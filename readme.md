@@ -1,6 +1,6 @@
 # CMPE 256 2019 Summer
 
-#TEAM 7 - Patent Recommendation System
+##TEAM 7 - Patent Recommendation System
 
 Team Members:
 * Aaron Lee (ID: 009085596)
