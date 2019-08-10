@@ -1,6 +1,9 @@
 # CMPE 256 2019 Summer
 
-##TEAM 7 - Patent Recommendation System
+This is a patent recommendation system project repository for Team 7.
+You may view the report, app source code and demo video here.
+
+# TEAM 7 - Patent Recommendation System
 
 Team Members:
 * Aaron Lee (ID: 009085596)
