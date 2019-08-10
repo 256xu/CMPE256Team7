@@ -8,7 +8,7 @@ Team Members:
 * Juan Chen (ID: 012483250)
 * Xiaoting Jin (ID: 013842192)
 
-## Contents
+# Contents
 
 * [Final Report](https://github.com/256xu/CMPE256Team7/blob/master/CMPE%20256%20Project%20Report.pdf)
 * [Demo and Presentation Video](https://youtu.be/c1Gmq4IN48c)
@@ -19,8 +19,8 @@ Team Members:
 * [Middle & Final Slides](https://github.com/256xu/CMPE256Team7/tree/master/project_slides)
 
 
-## Instruction of running app locally
-# Dependencies
+# Instruction of running app locally
+## Dependencies
 * Python 3.7
 * flask
 * sqlite
