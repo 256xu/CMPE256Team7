@@ -39,7 +39,7 @@ then select to download the `popular` section.
 
 
 
-**If you have two versions of python locally(eg. python2.7 and python3.7), please modify the commands above from `python` and `pip` to `python3` and `pip3` .**
+**If you have two versions of python locally(eg. python2.7 and python3.7), please modify the commands above from** `python` **and** `pip` **to** `python3` **and** `pip3` .
 
 7. After running commands above, wait for a few minutes, when you see: 
 
