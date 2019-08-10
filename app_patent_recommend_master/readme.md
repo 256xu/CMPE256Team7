@@ -1,4 +1,4 @@
-# Patten Recommender 
+# Patent Recommender 
 
 Recommendation system powered by recommendation models.
 ## Implemented by Team #7
